@@ -26,5 +26,5 @@ To get into coding mind
 ## Day 3
 ### Number System
 
--[Number System](https://www.youtube.com/watch?v=lhPcx5qnpY4&list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&index=12)
+- [Number System](https://www.youtube.com/watch?v=lhPcx5qnpY4&list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&index=12)
 
