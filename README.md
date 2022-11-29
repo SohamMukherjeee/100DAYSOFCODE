@@ -28,3 +28,6 @@ To get into coding mind
 
 - [Number System](https://www.youtube.com/watch?v=lhPcx5qnpY4&list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&index=12)
 
+## Day 4
+- [Functions](https://www.youtube.com/watch?v=QP_dA2E9E_w&t=2s)
+- [Pass by Value & Pass by Reference](https://www.youtube.com/watch?v=orKvRjhdRus)
