@@ -34,4 +34,4 @@ To get into coding mind
 
 ## Day 5
 - [Arrays - 1 | Array Creation, Types, and Operations](https://www.youtube.com/watch?v=afoJyiiN1Pw&list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&index=16)
-- [Vectors in C++ | Looping & Problem Solving | Arrays - 2](
+- [Vectors in C++ | Looping & Problem Solving | Arrays - 2](https://www.youtube.com/watch?v=-J6ZKSuaVds&list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&index=170
