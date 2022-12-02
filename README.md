@@ -35,3 +35,12 @@ To get into coding mind
 ## Day 5
 - [Arrays - 1 | Array Creation, Types, and Operations](https://www.youtube.com/watch?v=afoJyiiN1Pw&list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&index=16)
 - [Vectors in C++ | Looping & Problem Solving | Arrays - 2](https://www.youtube.com/watch?v=-J6ZKSuaVds&list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&index=170)
+
+## Day 6
+- [problems on loop]
+- [1](https://practice.geeksforgeeks.org/problems/square-pattern/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_1)
+- [2](https://practice.geeksforgeeks.org/problems/right-triangle/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_2)
+- [3](https://practice.geeksforgeeks.org/problems/triangle-number/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_3)
+- [4](https://practice.geeksforgeeks.org/problems/triangle-number-1661428795/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_4)
+- [5](https://practice.geeksforgeeks.org/problems/triangle-pattern/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_5)
+- [6](https://practice.geeksforgeeks.org/problems/triangle-number-1661489840/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_6)
