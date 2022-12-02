@@ -37,7 +37,7 @@ To get into coding mind
 - [Vectors in C++ | Looping & Problem Solving | Arrays - 2](https://www.youtube.com/watch?v=-J6ZKSuaVds&list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&index=170)
 
 ## Day 6
-- [problems on loop]
+- problems on loop
 - [1](https://practice.geeksforgeeks.org/problems/square-pattern/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_1)
 - [2](https://practice.geeksforgeeks.org/problems/right-triangle/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_2)
 - [3](https://practice.geeksforgeeks.org/problems/triangle-number/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_3)
